@@ -1,0 +1,81 @@
+.about-page {display: flex;}
+.header-nav__item {color:white;margin-right: 44px;font-size: 20px;text-decoration: none;}
+header nav { display: flex;}
+.header-nav {display: flex; padding-left: 0;margin: 0%; list-style: none;}
+.logo {margin-right: 44px;}
+header{background-color: black;padding: 24px 20px;}
+
+
+.Warmth{
+    background-image: url(../Img/Warmth-background.png);
+    background-repeat: no-repeat;
+    background-position: 246px;
+    background-size: 80%;
+}
+.Warmth-h{ padding-top: 143px;
+padding-bottom: 143px;
+margin-left: 126px;
+}
+.Warmth-h1 { 
+max-width: 456px;
+font-weight: 700;
+font-size: 60px;
+line-height: 70px;
+margin-bottom: 27px;
+}
+.Warmth-h2{
+    max-width: 630px;
+    font-size: 20px;
+line-height: 30px;
+margin-bottom: 57px;
+}
+.Warmth-btn{
+background-color:#C83267;
+padding: 20px 67px;
+border-radius: 4px;
+color: aliceblue;
+}
+
+
+.about{padding: 140px 0px;}
+
+.text-box {
+    padding-left: 30px;
+}
+.about-titele{
+font-weight: 500;
+font-size: 48px;
+line-height: 60px;
+margin-bottom: 48px;
+}
+.about-description {
+font-size: 18px;
+line-height: 42px;
+}
+.How-it-works_title { 
+font-weight: 500;
+font-size: 96px;
+line-height: 157%;
+margin-bottom: 48px;
+}
+.justsfy-content-between {
+    justify-content: space-between;
+}
+
+.How-it-works__item_title {
+font-size: 72px;
+line-height: 90px;
+color: rgba(255, 174, 0, 0.75);
+margin-bottom: 24px;
+}
+.How-it-works__item_discription {
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+margin-bottom: 48px;
+}
+.color-blu {color: rgba(7, 50, 255, 0.75);
+margin-top: 200px;}
+.color-pink { color: rgba(255, 66, 61, 0.75);
+margin-top: 44px;}
+.How-it-works{ padding-top: 240px;}

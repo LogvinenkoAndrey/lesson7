@@ -1,0 +1,47 @@
+*{box-sizing: border-box;}
+.container,
+.page-title{
+    max-width: 1395px;
+    width: 100%;
+    padding-right: 12px;
+    padding-left: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+}
+.How-it-works__item {max-width: 400px;}
+h1,h2,h3,h4,h5,h6 {font-weight: 700;}
+h1 {font-size: 38px;}
+h2 {font-size: 36px;}
+h2 {font-size: 32px;}
+h3 {font-size: 28px;}
+h4 {font-size: 24px;}
+h5 {font-size: 20px;}
+h6 {font-size: 18px;}
+
+.d-flex {display: flex;}
+.flex-direction-column {flex-direction: column; background-color: rgb(131, 157, 210);
+height: 600px;
+}
+.justify-content-between {justify-content: space-between;}
+.justify-content-around {justify-content: space-around;}
+.justify-content-evenly {justify-content: space-evenly;}
+.justify-content-center {justify-content: center;}
+.justify-content-end {justify-content: end;}
+.align-items-center,
+.align-items-start,
+.align-items-end{height: 450px;background-color: rgb(227, 100, 27);}
+.align-items-start {align-items: flex-start;}
+.align-items-center {align-items: center;}
+.align-items-end {align-items: flex-end;}
+.flex-direction-column .example-item {background-color: yellow;}
+.order-1 {order: 1;}
+.order-2 {order: 2;}
+.order-3 {order: 3;}
+.order-4 {order: 4;}
+.order-5 {order: 5;}
