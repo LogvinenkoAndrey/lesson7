@@ -45,3 +45,12 @@ height: 600px;
 .order-3 {order: 3;}
 .order-4 {order: 4;}
 .order-5 {order: 5;}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("/fonts/Roboto-Regular.ttf") format("truetype")
+   }
+   @font-face {
+    font-family: "PassionsConflict";
+    src: url("/fonts/PassionsConflict-Regular.ttf") format("truetype")
+   }

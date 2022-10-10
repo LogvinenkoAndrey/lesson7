@@ -1,3 +1,5 @@
+@import url(fonts.css);
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Nabla&display=swap');
 .header-nav__item {color:white;margin-right: 44px;font-size: 20px;text-decoration: none;}
 header nav { display: flex;}
 .header-nav {display: flex; padding-left: 0;margin: 0%; list-style: none;}
@@ -60,3 +62,68 @@ right: 70px;}
     background-color: brown;
     top: 0;
 }
+.whereas {background-color: darkgrey;
+}
+
+ .fonts{
+    font-family:"Roboto";
+    margin-bottom: 30px;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+  
+   .fonts1{
+    font-family: "Lobster";
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+ .fonts2{
+    font-family: "Nabla";
+    margin-left: 30px;
+    margin-bottom: 30px;
+ }
+ .fonts3{
+    font-family: "Bungee Spice";
+    margin-left: 30px;
+    margin-bottom: 30px;
+ }
+ .fonts4{
+font-family: "Dancing";
+    margin-left: 30px;
+    margin-bottom: 30px;
+
+ }
+ .fonts5{
+    font-family: "Astra";
+    margin-left: 30px;
+   padding-bottom: 30px;
+ }
+
+ .figures{display: flex;
+    flex-direction: row;
+    justify-content: start;
+    margin: 30px;
+ }
+ .triangle{
+    width: 0;
+    height: 0;
+    border-bottom: 140px solid red;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+ }
+ .triangle-down {
+    width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 140px solid red;
+ }
+ .triangle-left{
+    width: 0;
+	height: 0;
+	border-top: 70px solid transparent;
+	border-right: 140px solid red;
+	border-bottom: 70px solid transparent;
+ }
+ 

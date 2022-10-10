@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/Roboto-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Lobster";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/Lobster-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family:"Dancing" ;
+    src: url(../fonts/DancingScript-VariableFont_wght.woff);
+}
+@font-face {
+    font-family:"Dancing" ;
+    src: url(../fonts/DancingScript-VariableFont_wght.woff);
+}
+@font-face {
+    font-family: "Astra";
+    src: url(../fonts/pt-astra-sans-bold-italic.woff2);
+}
